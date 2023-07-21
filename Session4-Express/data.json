@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "name": "john", "address": "Hà Nội", "phone": 123456789 },
+    { "name": "Giang", "address": "Hà Nội", "phone": 12356523 },
+    { "name": "Lam", "address": "TN", "phone": 92343254 },
+    { "name": "vinh", "address": "HN", "phone": "123133442234" },
+    { "name": "hà", "address": "HN", "phone": "123133442234" }
+  ]
+}
